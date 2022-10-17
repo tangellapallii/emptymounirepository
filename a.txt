@@ -1,2 +1,1 @@
-this is a text 
-mani
+this is a text file
